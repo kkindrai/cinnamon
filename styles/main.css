@@ -1,0 +1,11 @@
+/* 
+    Creating the Font Family
+*/
+@font-face {
+    font-family: 'OpenDyslexic-Regular';
+    src: url('/fonts/OpenDyslexic-Regular.otf');
+}
+
+body {
+    font-family: 'OpenDyslexic-Regular';
+}
